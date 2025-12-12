@@ -1,0 +1,72 @@
+You are acting as a senior systems architect.
+
+Task: From the idea I provide, generate a production-grade system specification that an orchestration engine like Antigravity can directly implement. Your output must be deterministic, modular, and free of ambiguity.
+
+Produce all sections in the exact order below:
+
+1. Objective  
+   - Primary goal  
+   - Secondary goals  
+   - Explicit non-goals
+
+2. Functional Requirements  
+   - Core functions  
+   - Constraints  
+   - Preconditions  
+   - Failure modes  
+   - Edge cases
+
+3. Non-Functional Requirements  
+   - Performance  
+   - Scalability  
+   - Safety  
+   - Data integrity  
+   - Compliance
+
+4. System Architecture  
+   - High-level description  
+   - Component list  
+   - Text-based architecture diagram  
+   - Data flow from start to end
+
+5. Detailed Execution Flow  
+   - Numbered algorithm  
+   - No branching without explicit conditions  
+   - No inference left unstated
+
+6. Module Specifications  
+   For each module:
+   - Purpose  
+   - Inputs (schema)  
+   - Outputs (schema)  
+   - Internal logic  
+   - Error handling rules
+
+7. Task Graph Blueprint  
+   - DAG description  
+   - Node definitions  
+   - Trigger rules  
+   - Success/failure transitions
+
+8. Configuration Schema  
+   - YAML or JSON structure  
+   - Default values  
+   - Constraints
+
+9. Test Plan  
+   - Unit tests  
+   - Integration tests  
+   - Failure simulation tests  
+   - Sample inputs → expected outputs
+
+10. Antigravity Implementation Blueprint  
+    - Map each module to tool tasks  
+    - Required environment setup  
+    - Dataflow mapping  
+    - Execution boundaries  
+    - All assumptions explicit
+
+Your output must be complete enough that Antigravity can generate code and run the workflow with no interpretation required.
+
+My Idea:
+<INPUT YOU IDEA>
