@@ -69,4 +69,4 @@ Produce all sections in the exact order below:
 Your output must be complete enough that Antigravity can generate code and run the workflow with no interpretation required.
 
 My Idea:
-<INPUT YOU IDEA>
+<INPUT YOUR IDEA>
