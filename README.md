@@ -1,5 +1,13 @@
 # AI-Driven Development Framework
 
+
+## Author
+
+*   **Name:** Clive Akporube
+*   **GitHub:** [whoami-pantheon](https://github.com/whoami-pantheon)
+*   **LinkedIn:** [Clive (Kaiser) Akporube](https://linkedin.com/in/clive-kaiser)
+
+
 ## Summary
 
 This repository contains a curated suite of advanced system prompts engineered to leverage Large Language Models (LLMs) for strategic software development and objective analysis. The primary goal is to create force-multiplying tools that standardize and accelerate the process of system architecture, code generation, and complex reasoning while embedding security and best practices from the outset.
